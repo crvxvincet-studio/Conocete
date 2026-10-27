@@ -1,4 +1,4 @@
-# ✠ Conócete (v5.0) — Guía Católica para Conocerte y Forjar el Carácter
+# ✠ Conócete — Guía Católica para Conocerte y Forjar el Carácter
 
 Aplicación web instalable (PWA) 100% privada, sin servidores externos y en lenguaje claro y cercano, inspirada en las pláticas de formación de la **Fraternidad Sacerdotal San Pío X (FSSPX)** y en la psicología caracterológica y ascética católica tradicional (previa a 1958).
 
