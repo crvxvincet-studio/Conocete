@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="64" fill="#5e1914"/>
+  <rect x="24" y="24" width="464" height="464" rx="48" fill="none" stroke="#b89342" stroke-width="8"/>
+  <text x="256" y="220" text-anchor="middle" font-family="Cinzel, Georgia, serif" font-size="140" fill="#b89342">✠</text>
+  <text x="256" y="340" text-anchor="middle" font-family="Cinzel, Georgia, serif" font-weight="bold" font-size="60" fill="#f7f2e7" letter-spacing="4">CONÓCETE</text>
+  <text x="256" y="400" text-anchor="middle" font-family="Georgia, serif" font-size="28" fill="#d9c6a3">Temperamento y Carácter</text>
+</svg>
